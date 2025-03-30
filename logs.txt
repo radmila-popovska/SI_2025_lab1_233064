@@ -1,0 +1,14 @@
+* 7dfe09d List tasks sorted by name
+*   ea3d9cd Merge pull request #11 from radmila-popovska/2-find-all-completed-tasks
+|\  
+| * fd60760 Find all completed tasks
+* |   d9c8b5d Merge pull request #10 from radmila-popovska/1-remove-a-task-by-name
+|\ \  
+| |/  
+|/|   
+| * 4888703 Remove a task by name
+|/  
+| * dfc2f5d List tasks sorted by name
+|/  
+* dfb632e Add starter code
+* 5cdc998 Initial commit
