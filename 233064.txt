@@ -1,0 +1,26 @@
+1. Imam profil na github
+2.rename master
+3. repositories => new repository
+4. mkdir SI_2025_lab1_233064
+5. git remote origin https://github.com/radmila-popovska/SI_2025_lab1_233064
+6. nano README.md
+7. git add SI2025Lab1Main.java, git commit -m "started code"
+8. git push origin master
+9. New Project => Kanban => SI2025
+10. Backlog add 9 items
+11. Move 3 items to column in progress
+12. Create new branches
+13. git fetch origin
+14. git checkout 2-remove-a-task-by-name
+15. menuvam funkcija vo java 
+16. git commit -m "Remove a task by name"
+17. git push origin 2-remove-a-task-by-name
+18. Za prvite dve funkcii na zelenoto kopce Compare & pull, potoa create pull request
+19. istata postapka za site
+20. Ne se pojavuva konflikt bidejki ima izmeni na razlicni funkcii odnosno na razlicni granki
+21. Prefrleni se dvete granki 
+22. git checkout master => git pull origin master => git merge 3-list-tasks-sorted-by-name
+23. git push origin master
+24. nema konflikti
+25. git log --oneline --graph --all >> logs.txt
+
